@@ -8,6 +8,8 @@ Automation of Infrastructure using Jenkins and Terraform
 Introduction:
 This document is about how to execute Terraform scripts automatically using Jenkins pipeline. We will learn how to create EC2 instance using Terraform and Jenkins in AWS cloud.
 
+![image](https://user-images.githubusercontent.com/72337263/196380770-17621207-475f-4fc7-b52a-f2cf9bfc3dce.png)
+
 
 Use Case:
 Sometimes User doesn’t have direct access to the aws console to create the instance or manage the existing instance, In this case you can give Jenkins UI to the user to automate your infrastructure.
